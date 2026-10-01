@@ -1,0 +1,1 @@
+print("collaborateur entre en jeu")
